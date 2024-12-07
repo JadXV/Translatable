@@ -13,7 +13,8 @@ With this rewrite, **Translatable X** is cleaner, more efficient, and faster tha
 ## Requirements
 Ensure you have the following installed and configured:  
 - **Python 3.x**: Make sure Python 3 is installed on your system.  
-- **googletrans 4.0.0 RC1**: This specific version is required. Install it using:  
+- **googletrans 4.0.0 RC1**: This specific version is required. Install it using:
+    
   ```bash
   pip install googletrans==4.0.0-rc1
   ```
