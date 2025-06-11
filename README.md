@@ -15,7 +15,6 @@ This makes **Translatable X** ideal for personal projects, small teams, or educa
 ---
 
 # Translatable X / v10.0 (REWRITE)
-- **Translatable X** is faster, cleaner, and smarter than ever, now completely rewritten in Python.
 
 ## Purpose
 **Translatable X** is a tool designed to streamline communication between English and non-English speakers.  
