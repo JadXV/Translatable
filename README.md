@@ -1,3 +1,19 @@
+## Important Distinction from Hackathon Version
+
+> 🛠️ **Note:** This is **not** the same version that won **StackHacks**.
+
+**Translatable X / v10.0** is a **simplified, completely rewritten version** of the original **Translatable** that was presented at StackHacks. While the original version was more complex and tailored for a competitive hackathon environment, **this version focuses on clarity, ease of use, and performance.** It has been rebuilt from scratch using **Python** to ensure it's lightweight, maintainable, and easy to deploy.
+
+Key differences:
+
+* **Rewritten in Python** (vs. older tech stack)
+* **Streamlined core features** for easier setup and better performance
+* **More maintainable and beginner-friendly**
+
+This makes **Translatable X** ideal for personal projects, small teams, or educational use—without sacrificing its core mission of breaking down language barriers.
+
+---
+
 # Translatable X / v10.0 (REWRITE)
 - **Translatable X** is faster, cleaner, and smarter than ever, now completely rewritten in Python.
 
