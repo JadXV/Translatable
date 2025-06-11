@@ -1,4 +1,4 @@
-## Important Distinction from Hackathon Version
+## ⚠️ Important Distinction from Hackathon Version
 
 > 🛠️ **Note:** This is **not** the same version that won **StackHacks**.
 
