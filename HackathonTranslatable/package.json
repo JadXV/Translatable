@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "emoji-regex": "^10.3.0"
+  }
+}
